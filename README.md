@@ -5,6 +5,11 @@ This project demonstrates an ETL pipeline by:
 - Transforming and joining the data to prepare it for analysis.
 - Loading the cleaned data into a Postgres database.
 - Writing and executing queries against the database.
+
+## File Structure
+notebook>bengels_etl.ipynb - notebook that holds etl code
+data - file that holds the extracted data, and the combined data that gets written to database in .csv
+
   
 ## Setup Instructions
 1. Clone the repository:
