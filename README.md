@@ -7,8 +7,8 @@ This project demonstrates an ETL pipeline by:
 - Writing and executing queries against the database.
 
 ## File Structure
-notebook>bengels_etl.ipynb - notebook that holds etl code
-data - file that holds the extracted data, and the combined data that gets written to database in .csv
+/notebook/bengels_etl.ipynb - notebook that holds etl code
+- /data - file that holds the extracted data and combined data in .csv
 
   
 ## Setup Instructions
