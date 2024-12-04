@@ -23,7 +23,7 @@ This project demonstrates an ETL pipeline by:
 4. Create a `.env` file and add your environment variables:
    example:
    ```env
- ACCESS_KEY_ID=your-accesskey
+ACCESS_KEY_ID=your-accesskey
 SECRET_ACCESS_KEY=secret-key
 DB_HOST=db-host
 USERNAME=user-name
@@ -33,7 +33,7 @@ TABLE_NAME=table-name
 ADDRESS=address
    ```
 *note I got the address from running in my terminal
-   ``` nslookup host-url-given
+   ```nslookup host-url-given
    ```
 ## A Note of Thanks
 
