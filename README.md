@@ -1,4 +1,4 @@
-Mindex Data & Analytics Code Challenge
+### Mindex Data & Analytics Code Challenge
 ## Project Purpose
 This project demonstrates an ETL pipeline by:
 - Extracting data files from AWS.
