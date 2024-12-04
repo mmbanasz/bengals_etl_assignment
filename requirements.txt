@@ -1,2 +1,16 @@
-pip install psycopg2-binary sqlalchemy pandas
+awscli==1.36.10
+boto3==1.35.69
+botocore==1.35.69
+jupyter==1.0.0
+jupyter-client==7.2.2
+jupyter-console==6.4.3
+jupyter-core==4.10.0
+jupyterlab-pygments==0.2.2
+jupyterlab-widgets==1.1.0
+numpy==2.1.3
+oso==0.26.0
+pandas==2.2.3
+psycopg2-binary==2.9.10
+python-dotenv==1.0.1
+SQLAlchemy==2.0.36
 
