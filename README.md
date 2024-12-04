@@ -23,11 +23,18 @@ This project demonstrates an ETL pipeline by:
 4. Create a `.env` file and add your environment variables:
    example:
    ```env
-   AWS_ACCESS_KEY=your-access-key
-   AWS_SECRET_KEY=your-secret-key
-   DATABASE_URL=your-database-url
+ ACCESS_KEY_ID=your-accesskey
+SECRET_ACCESS_KEY=secret-key
+DB_HOST=db-host
+USERNAME=user-name
+PASSWORD=password
+DB_NAME=db-name
+TABLE_NAME=table-name
+ADDRESS=address
    ```
-
+*note I got the address from running in my terminal
+   ``` nslookup host-url-given
+   ```
 ## A Note of Thanks
 
 Thank you for providing this opportunity to do this assignment. It was fun! :)  
