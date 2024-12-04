@@ -3,8 +3,8 @@ Mindex Data & Analytics Code Challenge
 This project demonstrates an ETL pipeline by:
 - Extracting data files from AWS.
 - Transforming and joining the data to prepare it for analysis.
-- Loading the cleaned data into a database.
-- Writing and executing queries against the database for insights.
+- Loading the cleaned data into a Postgres database.
+- Writing and executing queries against the database.
   
 ## Setup Instructions
 1. Clone the repository:
@@ -22,3 +22,4 @@ This project demonstrates an ETL pipeline by:
    AWS_SECRET_KEY=your-secret-key
    DATABASE_URL=your-database-url
    ```
+
