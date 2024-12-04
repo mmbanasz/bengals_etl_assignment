@@ -23,7 +23,7 @@ This project demonstrates an ETL pipeline by:
    DATABASE_URL=your-database-url
    ```
 
-   ## A Note of Thanks
+## A Note of Thanks
 
 Thank you for providing this opportunity to do this assignment. It was fun! :)  
 _Go Bengals! (just kidding, I am a Steelers fan)_
